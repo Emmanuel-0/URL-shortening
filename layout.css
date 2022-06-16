@@ -3,10 +3,10 @@
   margin: 0 auto;
 
   display: grid;
-  grid-template-columns: minmax(15px, 165px) 1fr minmax(15px, 165px);
+  grid-template-columns: minmax(16px, 165px) 1fr minmax(15px, 165px);
 }
 
-@media (max-width: 1439px) {
+@media (max-width: 1440px) {
   .root {
     grid-template-columns: 15px 1fr 15px;
   }
