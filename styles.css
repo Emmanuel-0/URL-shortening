@@ -16,7 +16,7 @@
 
 .btn-small {
   line-height: 1.5;
-  font-size: 16px;
+  font-size: 15px;
   padding: 8px 25px;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .btn-primary:active {
-  background-color: hsla(180, 66%, 49%, 0.6);
+  background-color: hsla(180, 66%, 50%, 0.6);
 }
 
 .btn-primary:focus,
@@ -82,7 +82,7 @@
   display: flex;
   align-items: center;
   flex: 1;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .app-header .navbar-nav a {
@@ -140,7 +140,7 @@
     display: flex;
     flex-direction: column;
     padding: 20px 24px 40px;
-    border-radius: 9px;
+    border-radius: 10px;
   }
   .app-header .navbar-nav a {
     padding: 15px 0;
@@ -156,7 +156,7 @@
   .app-header .btn {
     align-self: stretch;
     font-weight: var(--font-weight-bold);
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .app-header .btn-login {
@@ -583,7 +583,7 @@
   }
 
   .app-footer .logo {
-    margin-bottom: 54px;
+    margin-bottom: 55px;
   }
 
   .app-footer .content {
