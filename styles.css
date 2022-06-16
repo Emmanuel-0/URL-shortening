@@ -1,6 +1,6 @@
-@import 'css/normal.css';
-@import 'css/layout.css';
-@import 'css/pattern.css';
+@import '/normal.css';
+@import '/layout.css';
+@import '/pattern.css';
 
 /* #region Common Styles */
 
